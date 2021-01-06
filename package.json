@@ -24,7 +24,7 @@
     "@middy/http-cors": "^1.2.0",
     "@middy/http-error-handler": "^1.2.0",
     "@middy/http-security-headers": "^1.2.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "debug": "^4.1.1",
     "googleapis": "^49.0.0",
     "http-errors": "^1.7.3",
