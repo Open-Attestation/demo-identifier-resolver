@@ -32,7 +32,7 @@
     "lodash": "^4.17.15",
     "middy": "^0.36.0",
     "node-cache": "^5.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "npm": "^6.14.4",
     "serverless": "^1.62.0",
     "serverless-dotenv-plugin": "^1.2.0",
